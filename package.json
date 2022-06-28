@@ -1,5 +1,5 @@
 {
-  //"homepage": "http://klmhyeonwoo.github.io/Triple-Clone-Coding",
+  "homepage": "http://klmhyeonwoo.github.io/Triple-Clone-Coding",
   "name": "triple",
   "version": "0.1.0",
   "private": true,
@@ -30,8 +30,8 @@
     "prettier:fix": "prettier '**/*' --write",
     "lint:style": "stylelint './**/*.{js,ts,tsx}'",
     "lint:style:fix": "stylelint './**/*.{js,ts,tsx}' --fix",
-    //"predeploy": "npm run build",
-    //"deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

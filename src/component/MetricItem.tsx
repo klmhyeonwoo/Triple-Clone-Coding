@@ -1,5 +1,4 @@
 import styles from './MetricItem.module.css';
-import {useState, useEffect } from 'react';
 import UseCountup from '../hooks/UseCountup';
 
 interface Item {
