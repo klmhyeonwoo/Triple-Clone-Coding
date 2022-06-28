@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Triple-Clone-Coding/static/css/main.8a385b54.css",
-    "main.js": "/Triple-Clone-Coding/static/js/main.03bdcf33.js",
+    "main.js": "/Triple-Clone-Coding/static/js/main.4027ead0.js",
     "static/js/787.119ed9a5.chunk.js": "/Triple-Clone-Coding/static/js/787.119ed9a5.chunk.js",
     "static/media/triple2x.png": "/Triple-Clone-Coding/static/media/triple2x.4424a6c6aa6d510c2435.png",
     "static/media/play-store2x.png": "/Triple-Clone-Coding/static/media/play-store2x.70f694a27592524eb43a.png",
     "static/media/badge-apple4x.png": "/Triple-Clone-Coding/static/media/badge-apple4x.5012cb26890fe79618eb.png",
     "index.html": "/Triple-Clone-Coding/index.html",
     "main.8a385b54.css.map": "/Triple-Clone-Coding/static/css/main.8a385b54.css.map",
-    "main.03bdcf33.js.map": "/Triple-Clone-Coding/static/js/main.03bdcf33.js.map",
+    "main.4027ead0.js.map": "/Triple-Clone-Coding/static/js/main.4027ead0.js.map",
     "787.119ed9a5.chunk.js.map": "/Triple-Clone-Coding/static/js/787.119ed9a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a385b54.css",
-    "static/js/main.03bdcf33.js"
+    "static/js/main.4027ead0.js"
   ]
 }
